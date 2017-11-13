@@ -1,0 +1,26 @@
+.red {
+     color: orangered;
+ }
+.green {
+    color: darkseagreen;
+}
+.bg {
+    background-color: #eee;
+}
+.size {
+    font-size: 20px;
+}
+.set-top {
+    display: none;
+    position:fixed;
+    right:20px;
+    bottom:20px;
+    height:80px;
+    width: 80px;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 80px;
+    color: #eee;
+    font-size:13px;
+    letter-spacing: 1.2px;
+}
